@@ -11,5 +11,8 @@
 ### Далее войдя на http://127.0.0.1:5601/app/dev_tools#/console  выполнил GET /_cluster/health?pretty
 ### [kibana](image/kibana_2.png)
 ## 3. Logstash
-
+### [nginx-access](image/logstash_-1.png)
+### [index-pattern](image/logstash_0.png)
+### [created-index-pattern](image/logstash_1.png)
+### [discover](image/logstash_2.png)
 ## 4. Filebeat
