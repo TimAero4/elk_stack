@@ -15,4 +15,5 @@
 ### [index-pattern](image/logstash_0.png)
 ### [created-index-pattern](image/logstash_1.png)
 ### [discover](image/logstash_2.png)
+### [last_logs_kibana](image/last_logs_kibana.png)
 ## 4. Filebeat
