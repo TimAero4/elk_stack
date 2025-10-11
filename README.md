@@ -15,3 +15,5 @@
 ### [data-view](image/3_logstash_data_view_2.png)
 ### [discover](image/3_logstash_discover_3.png)
 ## 4. Filebeat
+### Filebeat отправляет логи в Logstash
+### [filebeat](image/filebeat_docker_compose.png)
